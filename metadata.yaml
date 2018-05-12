@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5481'
     url: http://www.gutenberg.org/2009/agents/5481
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35097#Edvard-Grieg---The-Story-of-the-Boy-Who-Made-Music-in-the-Land-of-the-Midnight-Sun
 gutenberg_bookshelf: Child's Own Book of Great Musicians
 gutenberg_issued: '2011-01-28'
 gutenberg_type: Text
